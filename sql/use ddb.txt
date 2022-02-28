@@ -1,0 +1,2 @@
+1. Name of db is "store"
+2. check for table columns name{ex;- username}
