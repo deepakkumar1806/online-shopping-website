@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+}
+
+.jumbotron{
+    margin-top: 7vh;
+}
+
+footer{
+    background-color: black;
+    text-align: center;
+    color:white;
+}
